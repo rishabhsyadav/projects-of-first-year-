@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "Simple Calculator",
+      "description": "A basic calculator that performs arithmetic operations."
+    },
+    {
+      "name": "Student Management System",
+      "description": "A Java-based system to manage student records."
+    }
+  ]
+}
